@@ -1,0 +1,1 @@
+@types/bcryptjs @types/body-parser @types/cors @types/express @types/jsonwebtoken @types/moment @types/mongoose @types/node bcryptjs body-parser cors dotenv express express-validator jsonwebtoken moment mongoose nodemon ts-node tsc tslint-config-prettier tslint-react-recommended typescript

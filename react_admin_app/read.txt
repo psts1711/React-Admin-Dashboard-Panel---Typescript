@@ -1,0 +1,6 @@
+yarn create react-app my-app --template typescript
+
+yarn --network-timeout 100000
+
+yarn add @material-ui/core @material-ui/icons @material-ui/lab material-ui-chip-input @types/react-router@5.3.3 react-router@5.3.3 react-router-dom@5.3.3 @types/react-router-dom@5.3.3 @types/node axios jwt-decode moment react-redux react-toastify redux redux-thunk typescript
+
